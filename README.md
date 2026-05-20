@@ -1,4 +1,4 @@
-# LinkBypass Pro Bot 🔓
+.# LinkBypass Pro Bot 🔓
 
 A powerful Telegram bot that bypasses 500+ URL shorteners instantly.
 
